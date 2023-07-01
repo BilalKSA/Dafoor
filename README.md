@@ -1,7 +1,7 @@
 # Dafoor
 DafoorTeamProjectRepository
 
-first section => brief about food
+first section => brief about Dafoor
 
 second section => 1-podcast 2-volunteering 3-programs 4-scholarships 5-standardized tests
 
